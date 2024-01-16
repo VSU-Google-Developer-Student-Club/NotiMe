@@ -1,4 +1,4 @@
-# Hackathon Group 4 (iOS Client)
+# iOS Client Group
 
 ## Problem #1
 
